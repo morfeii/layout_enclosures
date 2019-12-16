@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  padding: 20px;
+  margin: 0;
+}
+
+.red {
+  width: 350px;
+  border: 1px solid red;
+  margin-bottom: 40px;
+}
+
+.blue {
+  background-color: #308DC0;
+  padding: 10px;
+}
+
+.orange {
+  background-color: #FFA500;
+  border: 1px solid red;
+  padding: 10px;
+
+}
+
+.text {
+  background-color: #DDDDDD;
+  color: #000;
+  border: 1px solid red;
+  padding: 10px;
+}
+
+
