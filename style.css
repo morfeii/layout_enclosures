@@ -15,22 +15,20 @@ body {
 }
 
 .blue {
-  background-color: #308DC0;
+  background-color: #308dc0;
   padding: 10px;
 }
 
 .orange {
-  background-color: #FFA500;
+  background-color: #ffa500;
   border: 1px solid red;
   padding: 10px;
 
 }
 
 .text {
-  background-color: #DDDDDD;
+  background-color: #ddd;
   color: #000;
   border: 1px solid red;
   padding: 10px;
 }
-
-
