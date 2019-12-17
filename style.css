@@ -8,27 +8,24 @@ body {
   margin: 0;
 }
 
+.border-pad {
+  border: 1px solid red;
+  padding: 10px;
+}
+
 .red {
   width: 350px;
-  border: 1px solid red;
   margin-bottom: 40px;
 }
 
 .blue {
   background-color: #308dc0;
-  padding: 10px;
 }
 
 .orange {
   background-color: #ffa500;
-  border: 1px solid red;
-  padding: 10px;
-
 }
 
-.text {
+.content {
   background-color: #ddd;
-  color: #000;
-  border: 1px solid red;
-  padding: 10px;
 }
